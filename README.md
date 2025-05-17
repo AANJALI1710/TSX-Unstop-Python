@@ -1,4 +1,5 @@
-# Internship Python Assessments
+# python assesment
+
 
 This repository contains weekly Python assessment solutions for the internship at Techsonix Solutions.
 
